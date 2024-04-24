@@ -43,3 +43,16 @@ footer {
     bottom: 0;
     width: 100%;
 }
+@media screen and (max-width: 600px) {
+    form{
+      width: 25rem;
+    }
+  
+  }
+  
+  @media screen and (max-width: 400px) {
+    form{
+      width: 20rem;
+    }
+  }
+  
